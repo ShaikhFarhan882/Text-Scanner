@@ -7,4 +7,4 @@ Images can be selected from camera and gallery.
 Copy converted text to clipboard.
 
 #Note  
-Works on android version 10 or lower.
+Compatible on android version 10 or lower.
